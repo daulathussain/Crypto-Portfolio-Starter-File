@@ -16,7 +16,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/VaIf4wkzl4c?si=xNvjLuauIxmq87IP)
+- [Final Code Setup video](https://youtu.be/0uHpwmXFJGc?si=fU8kn7eASholHhfV)
 
 ```
   WATCH: Setup & Demo Of Project
